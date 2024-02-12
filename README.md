@@ -1,4 +1,4 @@
-# fullstack-expense-tracker
+# Spendwise 
 
 1. Apis in node js
 2. Frontend in react js
